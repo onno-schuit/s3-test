@@ -6,6 +6,6 @@
 		"gid": "48",
 		"uid": "48",
 		"default_acl": "public-read",
-		"host": "s3-eu-west-1.amazonaws.com"
+		"host": "http://s3-eu-west-1.amazonaws.com"
 	}
 ]
