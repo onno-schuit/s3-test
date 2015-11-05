@@ -1,0 +1,9 @@
+branch-defaults:
+  default:
+    environment: s3test-env
+global:
+  application_name: s3test
+  default_ec2_keyname: aws-eb
+  default_platform: PHP 5.6
+  default_region: eu-west-1
+  profile: eb-cli
